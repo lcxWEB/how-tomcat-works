@@ -20,7 +20,7 @@ public class HttpProcessor {
      * The string manager for this package.
      */
     protected StringManager sm =
-            StringManager.getManager("ex03.pyrmont.connector.http");
+            StringManager.getManager("com.start.ex03.connector.http");
     /**
      * The HttpConnector with which this processor is associated.
      */
